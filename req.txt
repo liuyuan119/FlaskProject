@@ -1,0 +1,7 @@
+python manage.py runserver -d -r -h 0.0.0.0 -p 8000
+pip install flask-script
+
+pip install flask-migrate
+    创建一个migrate对象
+
+pip install flask-session
